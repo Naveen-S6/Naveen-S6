@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
 <h3 align="center">A Data science enthusiast</h3>
 
-- 🌱 I’m currently learning **Power Bi,Pandas,Numpy, Matplotlib, Sql**
+- 🌱 I’m currently learning **Python, Power Bi, Pandas,Numpy, Matplotlib, Sql**
 
 - 📫 How to reach me **naveen6052531@gmail.com**
 
